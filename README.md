@@ -5,6 +5,7 @@ addimlar:
 2. https://youtu.be/a3HJnbYhXUc?si=KopE7NfqnD-KMQtO videosuna baxaraq MySQL'i qurasdirin.
 3. Visual Studio Code'da "EJS language support" extension'ni yukleyin.
 4. MySQL Workbench'de asagidaki komandi yazin:
+
 CREATE DATABASE ecommerce_db;
 
 USE ecommerce_db;
