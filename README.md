@@ -33,7 +33,9 @@ CREATE TABLE cart (
 );
 
 INSERT INTO users (username, password) VALUES ('admin', 'password123');
+
 INSERT INTO products (name, description, price) VALUES ('Product1', 'Description1', 10.00);
+
 INSERT INTO products (name, description, price) VALUES ('Product2', 'Description2', 15.00)
 
 5. Son olaraq "node app.js" deyerek run ede bilersiz
